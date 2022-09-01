@@ -1,0 +1,21 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css";
+
+.incompleted{
+    color:black;
+}
+
+.btn,input{
+    margin:10px 20px;
+}
+.completed{
+    text-decoration: line-through;
+}
+.input-field{
+    max-width:80%;
+}
+form{
+    padding:20px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
